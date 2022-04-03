@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Abhishek R</title>
+    <link>https://raghuabhishek.github.io/my_portfolio/portfolio/</link>
+    <description>Recent content in Portfolios on Abhishek R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Oct 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://raghuabhishek.github.io/my_portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Procurement portal with recommendation system.</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/portfolio/procurement-portal/</link>
+      <pubDate>Sat, 31 Oct 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/portfolio/procurement-portal/</guid>
+      <description>Procurement is a process where a team purchases hardware devices like servers, storage and network devices which are required for developing a solution for the project. Every team has a representative called as a requestor who basically submits his requirements through our portal. A ReST API is dedicated for accepting these inputs. After the submission, a recommendation engine will run in the background that will process the request and based on the rules that are defined in the rule engine, an appropriate recommendation is made to the business team(Approve/Reject).</description>
+    </item>
+    
+    <item>
+      <title>Attack and Anomaly detection in IoT</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/portfolio/attack-and-anomaly-detection/</link>
+      <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/portfolio/attack-and-anomaly-detection/</guid>
+      <description>The overall framework is a combination of several independent processes. The first process of this framework is the dataset collection and dataset observation. In this process, the dataset was collected and observed meticulously to find out the types of data. Besides, data preprocessing was implemented on the dataset. Data preprocessing consists of cleaning of data, visualization of data, feature engineering and vectorization steps. These steps converted the data into feature vectors.</description>
+    </item>
+    
+    <item>
+      <title>Smart pharmaceutical refrigerator using IoT</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/portfolio/smart-pharmaceutical-refrigerator/</link>
+      <pubDate>Wed, 20 May 2020 12:13:40 +0000</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/portfolio/smart-pharmaceutical-refrigerator/</guid>
+      <description>The objective of this project is to build a system which can monitor the proper storage and stock availability of medicines. Nowadays most of the pharmaceutical stores have refrigerators to store some vaccines. When the stock inside the refrigerator gets exhausted the chemist might not be aware of it which may lead to delay in order of the stock. There are chances where the chemist may place a vaccine in the wrong compartment.</description>
+    </item>
+    
+  </channel>
+</rss>

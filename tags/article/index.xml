@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>article on Abhishek R</title>
+    <link>https://raghuabhishek.github.io/my_portfolio/tags/article/</link>
+    <description>Recent content in article on Abhishek R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://raghuabhishek.github.io/my_portfolio/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Paper: Smart pharmaceutical refrigerator</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/blog/smart-pharmaceutical-refrigerator/</link>
+      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/blog/smart-pharmaceutical-refrigerator/</guid>
+      <description>You can view my complete research paper here. Click Here
+ 1. INTRODUCTION Nowadays most of the pharmaceutical stores have refrigerators to store some vaccines. Some of the vaccines inside the refrigerator might get exhausted very soon due to high demand, which may lead to delay in replenishing of the stock in time because at present there is no automated system to indicate the reduction in the number of vaccines. There are chances of misplacing the vaccine into different compartment unknowingly.</description>
+    </item>
+    
+    <item>
+      <title>Article: Attack and Anomaly detection</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/blog/attack-and-anomaly-detection/</link>
+      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/blog/attack-and-anomaly-detection/</guid>
+      <description>You can view the full article here: Click Here
+ Attack and anomaly detection in the Internet of Things (IoT) infrastructure is a rising concern in the domain of IoT. Due to the increased use of IoT infrastructure, attacks on these infrastructures are also growing exponentially. So there is a need for developing a smart and a secured IoT environment that can detect its vulnerability. Here, a machine learning-based solution is proposed which can detect the type of attack and protect the IoT system.</description>
+    </item>
+    
+    <item>
+      <title>How to configure ArgoCD with AWS-ECR to pull helm charts</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/blog/how-to-configure-argocd-with-aws-ecr-to-pull-helm-charts/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/blog/how-to-configure-argocd-with-aws-ecr-to-pull-helm-charts/</guid>
+      <description>You can view the full article here: Click Here
+ Prerequisites:  Configure AWS-ECR credentials [Access key ID, Secret access key,Region,Account ID] in your environment where you have argocd installed using the command aws cli Then generate a AWS-ECR access token using the following command and store it in a variable named aws_password aws_password=$(aws ecr get-login-password)  Method  After completing the prerequisites, the first step is to authenticate the AWS-ECR repository with the argoCD using the enableOCI feature.</description>
+    </item>
+    
+  </channel>
+</rss>
