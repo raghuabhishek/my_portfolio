@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abhishek R</title>
+    <link>https://raghuabhishek.github.io/my_portfolio/</link>
+    <description>Recent content on Abhishek R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Oct 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://raghuabhishek.github.io/my_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Procurement portal with recommendation system.</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/portfolio/procurement-portal/</link>
+      <pubDate>Sat, 31 Oct 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/portfolio/procurement-portal/</guid>
+      <description>Procurement is a process where a team purchases hardware devices like servers, storage and network devices which are required for developing a solution for the project. Every team has a representative called as a requestor who basically submits his requirements through our portal. A ReST API is dedicated for accepting these inputs. After the submission, a recommendation engine will run in the background that will process the request and based on the rules that are defined in the rule engine, an appropriate recommendation is made to the business team(Approve/Reject).</description>
+    </item>
+    
+    <item>
+      <title>Research Paper: Smart pharmaceutical refrigerator</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/blog/smart-pharmaceutical-refrigerator/</link>
+      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/blog/smart-pharmaceutical-refrigerator/</guid>
+      <description>You can view my complete research paper here. Click Here
+ 1. INTRODUCTION Nowadays most of the pharmaceutical stores have refrigerators to store some vaccines. Some of the vaccines inside the refrigerator might get exhausted very soon due to high demand, which may lead to delay in replenishing of the stock in time because at present there is no automated system to indicate the reduction in the number of vaccines. There are chances of misplacing the vaccine into different compartment unknowingly.</description>
+    </item>
+    
+    <item>
+      <title>Attack and Anomaly detection in IoT</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/portfolio/attack-and-anomaly-detection/</link>
+      <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/portfolio/attack-and-anomaly-detection/</guid>
+      <description>The overall framework is a combination of several independent processes. The first process of this framework is the dataset collection and dataset observation. In this process, the dataset was collected and observed meticulously to find out the types of data. Besides, data preprocessing was implemented on the dataset. Data preprocessing consists of cleaning of data, visualization of data, feature engineering and vectorization steps. These steps converted the data into feature vectors.</description>
+    </item>
+    
+    <item>
+      <title>Article: Attack and Anomaly detection</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/blog/attack-and-anomaly-detection/</link>
+      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/blog/attack-and-anomaly-detection/</guid>
+      <description>You can view the full article here: Click Here
+ Attack and anomaly detection in the Internet of Things (IoT) infrastructure is a rising concern in the domain of IoT. Due to the increased use of IoT infrastructure, attacks on these infrastructures are also growing exponentially. So there is a need for developing a smart and a secured IoT environment that can detect its vulnerability. Here, a machine learning-based solution is proposed which can detect the type of attack and protect the IoT system.</description>
+    </item>
+    
+    <item>
+      <title>How to configure ArgoCD with AWS-ECR to pull helm charts</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/blog/how-to-configure-argocd-with-aws-ecr-to-pull-helm-charts/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/blog/how-to-configure-argocd-with-aws-ecr-to-pull-helm-charts/</guid>
+      <description>You can view the full article here: Click Here
+ Prerequisites:  Configure AWS-ECR credentials [Access key ID, Secret access key,Region,Account ID] in your environment where you have argocd installed using the command aws cli Then generate a AWS-ECR access token using the following command and store it in a variable named aws_password aws_password=$(aws ecr get-login-password)  Method  After completing the prerequisites, the first step is to authenticate the AWS-ECR repository with the argoCD using the enableOCI feature.</description>
+    </item>
+    
+    <item>
+      <title>Smart pharmaceutical refrigerator using IoT</title>
+      <link>https://raghuabhishek.github.io/my_portfolio/portfolio/smart-pharmaceutical-refrigerator/</link>
+      <pubDate>Wed, 20 May 2020 12:13:40 +0000</pubDate>
+      
+      <guid>https://raghuabhishek.github.io/my_portfolio/portfolio/smart-pharmaceutical-refrigerator/</guid>
+      <description>The objective of this project is to build a system which can monitor the proper storage and stock availability of medicines. Nowadays most of the pharmaceutical stores have refrigerators to store some vaccines. When the stock inside the refrigerator gets exhausted the chemist might not be aware of it which may lead to delay in order of the stock. There are chances where the chemist may place a vaccine in the wrong compartment.</description>
+    </item>
+    
+  </channel>
+</rss>
